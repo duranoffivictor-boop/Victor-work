@@ -1,0 +1,6 @@
+{
+  "name": "DocStudio Word Online",
+  "description": "Procesador de textos en línea estilo Microsoft Word. Crea, edita y exporta documentos a .docx, PDF, RTF, HTML, Markdown y TXT con soporte de plantillas y conversión.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
